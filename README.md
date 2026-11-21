@@ -3,7 +3,9 @@
 **Business question:** Which customers are worth targeting for promotions at a specialty food retailer, and what should we offer them?
 
 **Tools:** SQL (SQLite, DB Browser for SQLite), Tableau Public
+
 **Data:** [Customer Personality Analysis (Kaggle)](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)Public customer dataset (2,240 customers; 2,216 after removing 24 rows with missing income).
+
 **Related:** [Tableau dashboard](https://public.tableau.com/app/profile/brinn.jones/viz/CustomerSegmentationDashboard_17939693369080/CustomerSegmentationSpecialtyFoodRetailerSampleData#1)
 
 ## Approach
